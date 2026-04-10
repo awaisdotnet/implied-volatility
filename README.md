@@ -44,5 +44,4 @@ python3 implied_volatility.py
 Black-Scholes & Monte Carlo Options Pricing — github.com/awaisdotnet/options-pricing
 
 ## Author
-Awais | University of Leicester
-github.com/awaisdotnet
+Awais | University of Leicester | github.com/awaisdotnet
